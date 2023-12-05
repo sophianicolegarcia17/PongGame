@@ -22,6 +22,11 @@ a classic Pong game implemented in HTML, CSS, and JavaScript. It serves as an en
 - Use the Up(^) and Down(v) arrow keys for Player 2 to move the paddle up and down, respectively.
 - Score points by getting the ball past your opponent's paddle.
 
+## Project Files
+- `index.html`: HTML file defining the game structure.
+- `style.css`: CSS file for styling the game.
+- `index.js`: JavaScript file containing the game logic.
+
 ### HTML Structure
 
 The HTML file comprises a canvas element for the game board, a score display, and a reset button.
